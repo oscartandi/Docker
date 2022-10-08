@@ -1,8 +1,8 @@
 Docker Commands
 
 1. docker –version
-  This command is used to get the currently installed version of docker
-  ![docker version](https://user-images.githubusercontent.com/98871819/194724145-62b29e3d-f32e-42e9-ad3f-34e37db0e86e.png)
+   This command is used to get the currently installed version of docker
+   ![docker version](https://user-images.githubusercontent.com/98871819/194724145-62b29e3d-f32e-42e9-ad3f-34e37db0e86e.png)
 
 2. docker pull
   Usage: docker pull <image name>
