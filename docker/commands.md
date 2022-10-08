@@ -35,3 +35,23 @@ Docker Commands
    This command stops a running container
    ![image](https://user-images.githubusercontent.com/98871819/194724640-8dc05941-6c69-4a0a-b3e5-66f4f0ce7424.png)
 
+8. docker kill
+
+   Usage: docker kill <container id>
+
+   This command kills the container by stopping its execution immediately. The difference between ‘docker kill’ and ‘docker stop’ is that ‘docker stop’ gives the      container time to shutdown gracefully, in situations when it is taking too much time for getting the container to stop, one can opt to kill it
+   ![image](https://user-images.githubusercontent.com/98871819/194725556-5c956277-3867-4151-ba43-9fc9f4e5f67e.png)
+
+9. docker commit
+
+   Usage: docker commit <conatainer id> <username/imagename
+   This command creates a new image of an edited container on the local system
+   ![image](https://user-images.githubusercontent.com/98871819/194725670-521eae4e-cf7e-4a3d-a264-ca8b0cbf9e70.png)
+                                      
+10. docker login
+   ![image](https://user-images.githubusercontent.com/98871819/194725775-df660491-6d27-470b-9481-694d0f42e2cc.png)
+
+
+   
+   
+   
